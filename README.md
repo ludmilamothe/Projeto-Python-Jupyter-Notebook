@@ -15,7 +15,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Jupyter Notebook
 - Bibliotecas (pyautogui, pyperclip, time e pandas)
 
-## Autor
+## Autora
 Ludmila Mothé
 
 - [Gmail](mailto:ludmila.mothe@gmail.com)
